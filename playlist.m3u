@@ -79,6 +79,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
 
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvri.png" group-title="Lokal",TVRI
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
 ==============News==============
 #EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="News",TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -98,9 +102,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 #EXTINF:0, CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
-#EXTINF:0, TVRI NASIONAL
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
 
 #EXTINF:0, TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -208,6 +210,7 @@ https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+
 
 
 

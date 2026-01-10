@@ -1,0 +1,421 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Unitedkingdom/unitedkingdom1.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml"
+
+#    https://bit.ly/3odvkOD 
+
+
+#EXTINF:-1 tvg-id="翡翠台.hk" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong 香港", 翡翠台 
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+
+#  good too
+# http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
+
+# http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
+# http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+# http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+
+
+# http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+
+# http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+
+# A new one. these are good as of 01/23/2025
+# http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+# http://php.jdshipin.com:8880/smt.php?id=jade_twn
+# http://cdn.132.us.kg/live/fct4k/stream.m3u8
+# http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+
+
+
+#EXTINF:21 tvg-id="無綫新聞台.hk" group-title="Hong Kong 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png", 無線新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+
+# http://php.jdshipin.com:8880/smt.php?id=inews_twn 
+
+# https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.ctv
+# https://stream1.freetv.fun/wu-xian-xin-wen-1.ctv
+
+
+# http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+# http://aktv-stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+
+# http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+ 
+
+
+
+
+
+#EXTINF:-1 tvg-id="cnn" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="24/7 WORLD NEWS",CNN (US) 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
+
+#EXTINF:-1 tvg-id="cnbc-usa"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="24/7 WORLD NEWS", CNBC
+https://tvpass.org/live/CNBC/sd
+
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+# http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
+https://a1xs.vip/40000011
+# http://aktv_stream.m16tv.cfd/stream/useradd1//espn/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="espn-deportes" group-title="SPORTS", ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
+
+
+
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
+# https://a1xs.vip/40000031
+https://tvpass.org/live/NBATV/sd
+
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="24/7 WORLD NEWS",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg" group-title="24/7 WORLD NEWS", MSNBC
+# https://a1xs.vip/300008
+# good
+https://tvpass.org/live/MSNBC/hd
+
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png" group-title="24/7 WORLD NEWS",BBC World News (GB)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+
+
+
+# EXTINF:-1 tvg-id="" tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="24/7 WORLD NEWS",CNN Int. 
+# https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
+
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS", France i24 News
+# http://aktv_stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+
+
+# https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+
+# http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+# http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS" ,Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+# EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="24/7 WORLD NEWS"  , ABC (Australian Broadcast Corporation)
+# https://c.mjh.nz/abc-nsw.m3u8
+
+# https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="SPORTS",NFL Network
+https://tvpass.org/live/NFLNetwork/sd
+
+# https://a1xs.vip/40000032
+
+# http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB 功夫台
+# https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+
+#EXTINF: -1 tvg-id="鳳凰衛視香港台.hk" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港", 凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+# http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+
+
+# http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS" ,FS1 HD
+https://a1xs.vip/40000021
+# http://4.26.188.2:8081/udp/239.193.10.101:23901
+
+
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS" ,FS2 HD
+https://a1xs.vip/40000022
+
+# http://4.26.188.2:8081/udp/239.193.10.102:23902
+# This is also goo  11/08/2021
+# http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+
+
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CBS_Sports_logo.svg/250px-CBS_Sports_logo.svg.png?20180325235619" group-title=“SPORTS”, CBS SPorts
+# https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",TUDN:US
+http://tvmate.icu:8080/Alan/Alan1234/82241
+
+
+
+
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" group-title="SPORTS", NBC Sport Bay Area
+https://tvpass.org/live/nbc-sports-bay-area/sd
+
+
+# EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="24/7 WORLD NEWS",NHK World
+# https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS", Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
+
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Movies", HBO Family
+https://tvpass.org/live/HBOFamilyEast/sd
+
+# http://212.102.60.231/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 group-title="Movies", HBO Signature (East)
+https://tvpass.org/live/HBOSignatureEast/sd
+
+#EXTINF:-1 group-title="Movies", HBO (East)
+https://tvpass.org/live/HBOEast/sd
+
+#EXTINF:-1 group-title="Movies", HBO 2 (East)
+https://tvpass.org/live/HBO2East/sd
+
+#EXTINF:-1 group-title="Movies", HBO Zone (East)
+https://tvpass.org/live/HBOZoneEast/sd
+
+#EXTINF:-1 group-title="Movies", HBO Comedy (East)
+https://tvpass.org/live/HBOComedyEast/sd
+
+
+# EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Movies",Starz Encore Action
+# http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="TCMPacific.us" tvg-name="TCM West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Movies",TCM (Turner Classic Movies) West
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmwest.us.m3u8
+
+
+
+
+
+# EXTINF:1 tvg-id="28AI智慧賽馬.hk" group-title="Hong Kong 香港" , 28 AI 智慧賽馬
+
+# http://aktv_stream.m16tv.cfd/stream/aktv1/28ai/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="368334"  group-title="Hong Kong 香港" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV 賽馬台 18台
+http://bxtv.3a.ink/api.php?id=18
+
+# http://aktv_stream.m16tv.cfd/stream/aktv1/mytvsuper18/AKTV.m3u8
+
+
+#EXTINF:-1 tvg-id="368550" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong 香港",港台電視31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+
+#EXTINF:-1 tvg-id="368551" tvg-logo="https://logos.fandom.com/vi/wiki/%E6%B8%AF%E5%8F%B0%E9%9B%BB%E8%A6%96_32?file=RTHK_TV_32_2013.svg" group-title="Hong Kong 香港",港台電視32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+#EXTINF:15 tvg-id="千禧經典台.hk" group-title="Hong Kong 香港" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png", 千禧經典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+
+# http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+
+
+#EXTINF: -1 tvg-id="娛樂新聞台.hk" tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png" group-title="Hong Kong 香港", TVB 娛樂新聞台
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+
+# http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+
+#EXTINF: -1 tvg-id="明珠台.hk" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong 香港", Pearl 明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+
+# http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+# https://stream1.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.ctv
+# https://stream1.freetv.fun/ming-zhu-7.ctv
+
+# https://stream1.freetv.fun/ming-zhu-1.ctv
+
+# EXTINF: -1 tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="Hong Kong 香港", 黃金翡翠台
+# http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
+
+# http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+
+
+# EXTINF:=1 group-title="Hong Kong 香港", Now 星影台
+# http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+
+# EXTINF:-1 group-title="Hong Kong 香港", Now 爆谷台
+# http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+
+# https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+
+# EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="Hong Kong 香港",TVB 星河
+# http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+
+# http://php.jdshipin.com:8880/smt.php?id=Xinhe
+# http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+
+
+
+#EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://live.fanmingming.cn/tv/亚洲武侠.png" group-title="Hong Kong 香港",亚洲武侠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
+
+# EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://live.fanmingming.cn/tv/TVB生活台.png" group-title="Hong Kong 香港",TVB生活台
+# http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+
+
+
+# EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png" group-title="Hong Kong 香港",天映频道
+# http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+# http://php.jdshipin.com/smt.php?id=Celestial
+
+
+# EXTINF:-1 tvg-name="天映经典.hk" tvg-logo="https://live.fanmingming.cn/tv/天映经典.png" group-title="Hong Kong 香港",天映经典
+# http://php.jdshipin.com/smt.php?id=Celestial2
+
+# EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVBJ1.png" group-title="Hong Kong 香港",TVB J1
+# http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8
+
+# ********************************************  
+
+
+# EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="Hong Kong 香港",無線財經資訊台
+# http://live.cooltv.top/tv/tvb.php?id=2
+
+# http://livetv.dnsfor.me/channel.11.m3u8
+
+#EXTINF:0 tvg-id="TVB Plus.hk" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong 香港",無線 TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+
+# http://php.jdshipin.com/TVOD/iptv.php?id=j2
+
+# http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
+
+# http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+
+
+#EXTINF:-1 tvg-id="美亞電影台.hk" group-title="Hong Kong 香港",美亞電影台(HK)
+http://bxtv.3a.ink/api.php?id=meiya
+
+# http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+# http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
+# http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+
+# EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="Hong Kong 香港",無線千禧經典台
+# http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+
+
+# EXTINF: -1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",翡翠综合
+# http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+
+
+
+# EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80" group-title="Hong Kong 香港",鳳凰衛視香港台 HD
+# https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+
+
+# EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong 香港",TVB 经典台
+# http://iptv.tvfix.org/hls/tvbws.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="UK SPORTS",Sky Sports Action FHD
+https://a1xs.vip/2000011
+
+# EXTINF:-1 tvg-name="HOY TV" group-title="Hong Kong 香港",HOY TV
+# http://cdn.132.us.kg/live/hoy/stream.m3u8
+
+# EXTINF:-1 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="Hong Kong 香港",TVB功夫台
+# http://iptv.tvfix.org/hls/tvbkf.m3u8
+
+
+
+#EXTINF:-1 tvg-id="410274" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" group-title="Hong Kong 香港",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+# http://bxtv.3a.ink/api.php?id=viutv
+
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="UK Channels",BBC One FHD
+https://a1xs.vip/1000001
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two FHD" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="UK Channels",BBC Two FHD
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+# https://a1xs.vip/1000002
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/330px-BBC_Four_HD_Logo.svg.png" group-title="UK Channels",BBC Four FHD
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://tv.assets.pressassociation.io/4964f8fc-9ecf-55b1-be63-be6e1beda0cd.png" group-title="UK SPORTS",UK | Sky Sports Main Event
+https://a1xs.vip/2000001
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eb561577-2d54-5d1f-aaf4-1c856e4952ff.png" group-title="UK SPORTS",UK | Sky Sports Premier League
+https://a1xs.vip/2000002
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" group-title="UK SPORTS",UK | Sky Sports Football
+https://a1xs.vip/2000003
+
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="UK SPORTS",UK | TNT Sports 1
+https://a1xs.vip/2000021
+
+# http://ky-iptv.com:80/MsLady2024/2024MsLady/1846762.ts
+
+# https://a1xs.vip/2000021
+
+# https://a1xs.vip/2000021
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" group-title="UK SPORTS",UK | TNT Sports 2
+# http://ky-iptv.com:80/MsLady2024/2024MsLady/1846763.ts
+https://a1xs.vip/2000022
+
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" group-title="UK SPORTS",UK | TNT Sports 3
+# http://ky-iptv.com:80/MsLady2024/2024MsLady/1846764.ts
+
+https://a1xs.vip/2000023
+
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" group-title="UK SPORTS",UK | TNT Sports 4
+# http://ky-iptv.com:80/MsLady2024/2024MsLady/1846765.ts
+
+https://a1xs.vip/2000024
+
+# EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/16/TNT-Sports-Ultimate.png" group-title="UK SPORTS",UK | TNT Sports Ultimate UHD
+# https://a1xs.vip/2000031
+
+
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="CA Sports",TSN1
+https://tvpass.org/live/tsn1/sd
+
+# http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47440
+
+# https://a1xs.vip/6000001
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="CA Sports",TSN2
+# https://a1xs.vip/6000002
+
+# also good
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47442
+
+
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="CA Sports",TSN3
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/10389
+# https://a1xs.vip/6000003
+
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="CA Sports",TSN4
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/66783
+# https://a1xs.vip/6000004
+
+# EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="CA Sports",TSN5
+# https://a1xs.vip/6000005
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://pixvid.org/images/2025/02/07/SportsNet_Ontario.png" group-title="CA Sports",Sportsnet Ontario FHD
+https://a1xs.vip/6000011
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_One.png" group-title="CA Sports",Sportsnet One FHD
+https://a1xs.vip/6000012
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_World.png" group-title="CA Sports",Sportsnet World FHD
+https://a1xs.vip/6000013
+# also good
+# http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/75675
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="SPORTS",US | Spectrum Sportsnet FHD
+https://a1xs.vip/4000006
+
+# EXTINF:0 , Sky ARTs
+# https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8

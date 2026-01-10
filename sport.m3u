@@ -419,3 +419,10 @@ https://a1xs.vip/4000006
 
 # EXTINF:0 , Sky ARTs
 # https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",ESPN News
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",ESPN U
+https://gma2.blab.email/espnu.m3u8

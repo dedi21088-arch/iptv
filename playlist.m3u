@@ -108,19 +108,18 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 
 ==============KIDS==============
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_mentaritv.png" group-title="KIDS",MENTARI TV (PASS)
 http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
 
-#EXTINF:0, BUDDY STAR
+#EXTINF:-1 tvg-id="BUDDY STAR" tvg-name="MBUDDY STAR" tvg-logo="https://raw.githubusercontent.com/dedi21088-arch/iptv/refs/heads/main/image/budddy.png" group-title="KIDS",BUDDY STAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
 
-#EXTINF:0, NICK JR
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/dedi21088-arch/iptv/refs/heads/main/image/nickjr.png" group-title="KIDS",NICK JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 
-#EXTINF:0, NICKELODEON
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://raw.githubusercontent.com/dedi21088-arch/iptv/refs/heads/main/image/Nickelodeon.png" group-title="KIDS",NICKELODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 
@@ -215,6 +214,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
 
 
 

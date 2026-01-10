@@ -102,7 +102,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 #EXTINF:-1 tvg-id="CNBCINDONESIA.id" tvg-name="CNBCINDONESIA tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png" group-title="News",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="SINDONEWSTV.id" tvg-name="SINDONEWSTV tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png" group-title="News",SINDO NEWS TV
+#EXTINF:-1 tvg-id="SINDONEWSTV.id" tvg-name="SINDONEWSTV tvg-name="" tvg-logo="https://raw.githubusercontent.com/dedi21088-arch/iptv/refs/heads/main/image/sindo.png" group-title="News",SINDO NEWS TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
@@ -215,6 +215,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
 
 
 

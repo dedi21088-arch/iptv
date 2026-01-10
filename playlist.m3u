@@ -146,16 +146,16 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 https://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-#EXTINF:0,PBS KIDS  
+#EXTINF:-1 tvg-id="PBS KIDS" tvg-name="PBS KIDS" tvg-logo="https://raw.githubusercontent.com/dedi21088-arch/iptv/refs/heads/main/image/dora.jfif" group-title="KIDS",DORA TV
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:0,DORA TV
+#EXTINF:-1 tvg-id="DORA TV" tvg-name="DORA TV" tvg-logo="https://raw.githubusercontent.com/dedi21088-arch/iptv/refs/heads/main/image/pbs.png" group-title="KIDS",PBS KIDS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:0,PLUTO TV NICK JR
+#EXTINF:-1 tvg-id="PLUTO TV NICK JR" tvg-name="PLUTO TV NICK JR" tvg-logo="https://raw.githubusercontent.com/dedi21088-arch/iptv/refs/heads/main/image/pluto.png" group-title="KIDS",PLUTO TV NICK JR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:0, EBS KIDS
+#EXTINF:-1 tvg-id="EBS KIDS" tvg-name="EBS KIDS" tvg-logo="https://raw.githubusercontent.com/dedi21088-arch/iptv/refs/heads/main/image/ebs.jfif" group-title="KIDS",EBS KIDS
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 ==============SPORT==============
@@ -208,6 +208,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
 
 
 
